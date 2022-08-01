@@ -1,1 +1,4 @@
-
+analyze_(big) is the dataset from Web of Science for the larger data published in XAS and Catalysis related search words
+analyze_(small) is the dataset from Web of Science for the smaller dataset published in XAS and Catalysis realted search words that use DFT 
+To launch the Binder click the jypter notebook link (this is the example case for providing EXAFS data and ase.db for data-centric approach, where we use Pt/ZSM-5 dataset from our recently published paper https://pubs.acs.org/doi/pdf/10.1021/jacs.2c05386)
+link to launch binder https://mybinder.org/
