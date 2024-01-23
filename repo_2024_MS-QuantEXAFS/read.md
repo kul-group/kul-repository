@@ -1,1 +1,1 @@
-
+The codes for running MS-QuantEXAFS are provided in this folder along with the cif files and feff.inp files for Pt-iso/MgO and Pt-np/MgO. Addtional data for other datasets is published and is availabe on demand. Please contact Prof. Kulkarni (arkulkarni@ucdavis.edu) or Rachita Rana (racrana@ucdavis.edu).
